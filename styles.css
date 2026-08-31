@@ -2,3 +2,8 @@ img {
     width: 150px;
     height: 150px;
 }
+
+.hero {
+    background-color: #0f3d3e;
+    padding: 3rem 1.5rem;
+}
