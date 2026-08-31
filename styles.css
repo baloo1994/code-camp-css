@@ -13,5 +13,10 @@ img {
 
 .hero .btn {
     background-color: #fde68a;
-    color: #0f172a
-}
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    font-weight: 700;
+     color: #0f172a
+    }
